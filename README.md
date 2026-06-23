@@ -21,8 +21,8 @@ This project builds and evaluates three recurrent neural network models to class
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|--------|----------|
 | **GRU** | ✅ Best | ✅ Best | ✅ Best | **84.61%** |
-| LSTM | — | — | — | — |
-| BiLSTM | — | — | — | — |
+| BiLSTM |  | 0.839966 | 0.839954 | 0.839369 |
+|  LSTM | 0.829536 | 0.830912 |0.829536 | 0.829970 |
 
 > **GRU outperformed both LSTM and BiLSTM**, achieving the highest F1-Score of **84.61%** while requiring fewer parameters and faster training time.
 
