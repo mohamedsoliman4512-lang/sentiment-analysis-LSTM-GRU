@@ -118,6 +118,6 @@ jupyter notebook _Sentiment_Analysis_using_LSTM__GRU_and_Bidirectional_LSTM.ipyn
 
 **Mohamed Emad**  
 Data Scientist & AI/ML Engineer  
-[![LinkedIn](www.linkedin.com/in/mohamed-soliman4512)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/mohamedsoliman4512-lang)
-[![Kaggle](https://www.kaggle.com/mohamedsoliman22))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle)](https://kaggle.com/YOUR_PROFILE)
